@@ -1,67 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZNnKnw/Shafiul.jpg" group-title="Shafiul TV", Shafiul
+#EXTINF:-1 , Shafiul
 https://i.ibb.co/YZNnKnw/Shafiul.jpg
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="Live", T Sports
 http://pgplex.net:8080/BPL2024/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/j8FKPWj/IMG-20240126-083701.png" group-title="Live",Gazi TV 
 http://pgplex.net:8080/GaziTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YP5XVnN/IMG-20240126-110302.jpg" group-title="Live",Sports 18 HD
-http://pgplex.net:8080/Sports18HD/index.m3u8
+#EXTINF:-1 ,ten sports HD BPL 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hd2YRBj/IMG-20240129-071921.png" group-title="Live", Star Sports 1
-http://pgplex.net:8080/StarSports1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KKNJNz/IMG-20240129-071957.jpg" group-title="Live", Star Sports 2
-http://pgplex.net:8080/StarSports2HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrPDk4V/IMG-20240129-072058.png" group-title="Live", Star Sports SL 1
-http://pgplex.net:8080/StarSportsSelect1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D9c4RL6/IMG-20240129-072152.png" group-title="Live", Star Sports SL 2
-http://pgplex.net:8080/StarSportsSelect2/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YZNnKnw/Shafiul.jpg" group-title="Islamic",Peace Tv Bangla
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YZNnKnw/Shafiul.jpg" group-title="Islamic",Peace Tv Bangla
+http://tv.cloudcdn.me/live/00:1A:79:17:C0:17/D9CA0D47A1879/237.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="News",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0zPHd3/Somoy-TV1689411430.jpg" group-title="News",Somoy 
 http://pgplex.net:8080/SomoyTv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="News",News 24 HD
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WFMm85Z/IMG-20240212-075758.png" group-title="News",BBC World News
+http://pgplex.net:8080/BBCNews/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="Bangladeshi",Maasranga Tv
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTXVq9K/Nagorik1680260468.jpg" group-title="Bangladeshi",Nagorik TV
 http://pgplex.net:8080/NagorikTV/index.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",Channel 24
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.ibb.co/BK12TH7/IMG-20240126-092224.png",RTV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/JphS5Vz/IMG-20240126-092252.png",SA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",Deepto TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
 
 
-#EXTINF:-1 group-title="News"tvg-logo="https://i.ibb.co/WFMm85Z/IMG-20240212-075758.png",BBC World News
-http://pgplex.net:8080/BBCNews/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/TgdZysJ/IMG-20240129-065636.jpg",Sony Pix HD
