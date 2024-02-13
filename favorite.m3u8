@@ -20,7 +20,7 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:17/D9CA0D47A1879/237.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="News",Jamuna TV
+#EXTINF:-1 tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="News",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0zPHd3/Somoy-TV1689411430.jpg" group-title="News",Somoy 
 http://pgplex.net:8080/SomoyTv/index.m3u8
