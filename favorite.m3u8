@@ -12,9 +12,9 @@ http://pgplex.net:8080/GaziTVHD/index.m3u8
 #EXTINF:-1 ,ten sports HD BPL 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZNnKnw/Shafiul.jpg" group-title="Islamic",Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://assets.peacetv.tv/images/section-lang/bangla/ba-logo.png" group-title="Islamic",Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZNnKnw/Shafiul.jpg" group-title="Islamic",Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://assets.peacetv.tv/images/section-lang/bangla/ba-logo.png" group-title="Islamic",Peace Tv Bangla
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:17/D9CA0D47A1879/237.m3u8
 
 
