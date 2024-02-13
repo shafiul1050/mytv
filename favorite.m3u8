@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 , Shafiul
+#EXTINF:-1 group-title="Shafiul" tvg-logo="https://i.ibb.co/YZNnKnw/Shafiul.jpg", Shafiul Best TV
 https://i.ibb.co/YZNnKnw/Shafiul.jpg
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="Live", T Sports
 http://pgplex.net:8080/BPL2024/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/j8FKPWj/IMG-20240126-083701.png" group-title="Live",Gazi TV 
@@ -25,7 +28,7 @@ https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 http://pgplex.net:8080/BBCNews/index.m3u8
 
 
-#EXTINF:-1 ,NTV(BD)
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="*",NTV(BD)
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="Bangladeshi",Maasranga Tv
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
