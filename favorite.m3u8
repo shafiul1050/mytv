@@ -8,11 +8,7 @@ https://i.ibb.co/YZNnKnw/Shafiul.jpg
 http://pgplex.net:8080/BPL2024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Live",T Sports HD
 http://pgplex.net:8080/TSportsHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/j8FKPWj/IMG-20240126-083701.png" group-title="Live",Gazi TV 
-http://pgplex.net:8080/GaziTVHD/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg",BPL Live Gazi TV
-http://pgplex.net:8080/GaziTVHD/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg",BPL Live Gazi TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://i.ibb.co/j8FKPWj/IMG-20240126-083701.png",BPL Live Gazi TV
 http://ott1.co:8080/live/22552255/22552255/767.ts
 #EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg",BPL Live T Sports HD
 http://pgplex.net:8080/BPL2024/index.m3u8
