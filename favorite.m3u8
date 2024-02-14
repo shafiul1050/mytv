@@ -28,6 +28,20 @@ http://103.142.80.22:8080/Channel-2/index.m3u8
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 tvg-logo="https://assets.peacetv.tv/images/section-lang/bangla/ba-logo.png" group-title="Islamic",Peace Tv Bangla
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:17/D9CA0D47A1879/237.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="ISLAMIC",DEEN TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="ISLAMIC", IQRA BANGLA
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/L5DsYMv/IMG-20240205-094204.jpg",MADANI
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="ISLAMIC",ATN ISLAMIC TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Prjwwcb/pngwing-com.png" group-title="ISLAMIC", AL QURAN AL QAREEM
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" group-title="News",Jamuna TV
@@ -37,12 +51,14 @@ http://pgplex.net:8080/JamunaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0zPHd3/Somoy-TV1689411430.jpg" group-title="News",Somoy 
 http://pgplex.net:8080/SomoyTv/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WFMm85Z/IMG-20240212-075758.png" group-title="News",BBC World News
 http://pgplex.net:8080/BBCNews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPkKrhy0/Al-Jazeera.png" group-title="News",Al Jazeera HD
 http://pgplex.net:8080/Aljazeera/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7RZWy60/Sky-News.jpg" group-title="News",Sky News
 http://pgplex.net:8080/SKYNews/index.m3u8
+
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV(BD)
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
@@ -64,18 +80,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="Documentary", Discovery
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary  2
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary  1
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary 3
-https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/ff/b2/678d83f04b162d7ffb33db527975-r341.jpg" group-title="Kids", DURONTO TV
@@ -106,3 +110,20 @@ http://64.31.40.14:14031/
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.ibb.co/c6XLTJ0/IMG-20240126-093751.png",MN+ HD
 http://103.132.181.118:82/play/a00t
+
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHB3Pg3Z/Sony-Aath-new.png",Sony Aath
+http://mag.trexlive.me:80/Michael88/Michael88/225775
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHB3Pg3Z/Sony-Aath-new.png",Sony Aath
+http://mag.trexlive.me:80/Michael88/Michael88/1112197
+
+
+#EXTINF:-1 tvg-logo="*.png" group-title="Documentary", Xlpore English(BD)
+http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary  1
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary  2
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 ,tvg-logo="*.png" group-title="Documentary", History TV 18 HD(BD)
+
+
