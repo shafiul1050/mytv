@@ -39,6 +39,25 @@ https://edge.taghtia.com/sa/7.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/ff/b2/678d83f04b162d7ffb33db527975-r341.jpg" group-title="Kids", DURONTO TV
+https://uniflixbd.xyz/unuse/aynaforapp/Ayna/stream.m3u8?id=36
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/T2NrXRqZ/mrbean.jpg", 24/7 Mr. Bean
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/wxQvYFXZ/tom-and-jerry-PNG42.jpg",24/7 Tom & Jerry Movie
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=ts&play_token=GV8NUy0FxS
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/wxQvYFXZ/tom-and-jerry-PNG42.jpg",24/7 Tom & Jerry Classic
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/1XsGsgq/IMG-20240129-070805.jpg",Nick BANGLA
+https://bongohub.pw/bioscope.php?cc=nickelodeon
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/G2PHj8Mt/duronto-tv.jpg",Rongeen TV
+https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DwxdYxpm/SONY-YAY.png",Sony Yay
+http://mag.trexlive.me:80/Michael88/Michael88/156089
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" group-title="News",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" group-title="News",Jamuna TV
@@ -75,22 +94,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/ff/b2/678d83f04b162d7ffb33db527975-r341.jpg" group-title="Kids", DURONTO TV
-https://uniflixbd.xyz/unuse/aynaforapp/Ayna/stream.m3u8?id=36
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/wxQvYFXZ/tom-and-jerry-PNG42.jpg",24/7 Tom & Jerry Movie
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=ts&play_token=GV8NUy0FxS
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/wxQvYFXZ/tom-and-jerry-PNG42.jpg",24/7 Tom & Jerry Classic
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/1XsGsgq/IMG-20240129-070805.jpg",Nick BANGLA
-https://bongohub.pw/bioscope.php?cc=nickelodeon
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/G2PHj8Mt/duronto-tv.jpg",Rongeen TV
-https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DwxdYxpm/SONY-YAY.png",Sony Yay
-http://mag.trexlive.me:80/Michael88/Michael88/156089
-
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/rmNW86sW/image_29.jpg",HBO
