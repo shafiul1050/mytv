@@ -12,6 +12,12 @@ http://103.142.80.22:8080/Channel-2/index.m3u8
 http://pgplex.net:8080/BPL2024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Live",T Sports HD
 http://pgplex.net:8080/TSportsHD/index.m3u8
+#EXTINF:-1 group-title="BDSAJIB-Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png",T Sports HD
+http://103.142.80.22:8080/t-sports/video.m3u8
+#EXTINF:-1 group-title="BDSAJIB-Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png",T Sports HD
+https://api.bongohub.pw/apix/tsportsbds.php?m3u8=https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 group-title="BDSAJIB-Sports" tvg-logo="https://i.postimg.cc/43QF1vFV/20231023-120959.jpg",Gazi TV
+http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-logo="https://i.ibb.co/j8FKPWj/IMG-20240126-083701.png",BPL Live Gazi TV
 http://ott1.co:8080/live/22552255/22552255/767.ts
 #EXTINF:-1 group-title="Live" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg",BPL Live T Sports HD
@@ -96,6 +102,12 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV
+http://38.96.178.201/live/NTV/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV 
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/rmNW86sW/image_29.jpg",HBO
@@ -120,10 +132,20 @@ http://mag.trexlive.me:80/Michael88/Michael88/1112197
 
 #EXTINF:-1 tvg-logo="*.png" group-title="Documentary", Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary  1
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary",  Discovary  2
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary Bangla
+https://api.bongohub.pw/bdsajibx/discovarybd.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary Bangla
+https://pos.bongohub.pw/star.php?id=406&e.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  1
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 ,tvg-logo="*.png" group-title="Documentary", History TV 18 HD(BD)
-
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  2
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 3
+https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
+#EXTINF:-1 group-title="BDSAJIB-Documentary" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png", HISTORY TV
+https://api.bongohub.pw/api/bio.php?ac=history-tv
+#EXTINF:-1 group-title="BDSAJIB-Documentary" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png", SONY BBC EARTH HD
+https://api.bongohub.pw/api/bio.php?ac=bbc-earth-hd-live
+#EXTINF: -1 tvg-name="Documentary" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="BDSAJIB-Documentary", Animal Planet 2
+https://api.bongohub.pw/bdsajibx/Animal_Planet_hindi.m3u8
 
