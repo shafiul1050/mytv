@@ -78,7 +78,7 @@ http://pgplex.net:8080/SKYNews/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV(BD)
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="Bangladeshi",Maasranga Tv
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/4N4yTMwD/0385Pju.jpg",Maasranga HD
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
