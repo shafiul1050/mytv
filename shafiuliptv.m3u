@@ -169,6 +169,15 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="KOLKATA",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", STAR JALSHA 
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", STAR JALSHA HD
+http://217.20.112.199/starjalshahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", STAR JALSHA FHD
+http://103.151.60.174/manikvai@hoichoi24.com
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="KOLKATA",Zee Bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
