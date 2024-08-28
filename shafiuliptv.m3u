@@ -35,7 +35,7 @@ http://103.230.105.252:1935/live/btv/manifest_w1943401517.m3u8
 http://ktv.im:8080/live/111222/222111/83781.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangladeshi Channel",Jamuna TV
-#http://ktv.im:8080/live/111222/222111/83800.ts
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=gq9FAMItCM03QRNFMZ_WRA&expires=1724916407&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"group-title="Bangladeshi Channel",Ekhon TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
@@ -51,10 +51,10 @@ http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 http://xtv.ooo:8080/global/global/245915
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangladeshi Channel",ATN News HD
-http://128.0.104.39:8070/live/AmirBilali/76448035/69342.ts
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=MSHSdpi9cyCwXAMW4-NGyw&expires=1725000304&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangladeshi Channel",Channel 24
-https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=8.2.3"group-title="Bangladeshi Channel",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
@@ -80,7 +80,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=Ijt18ozD1LIjHO5ZohnZOA&expires=1724916300&user=ef71b837ceef4cd18a6cf7069722d83d
 http://194.42.205.99:8070/live/AmirBilali/76448035/3647.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangladeshi Channel",NTV UK
@@ -166,32 +166,41 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Indian Bangla Channel",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="KOLKATA",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Indian Bangla Channel",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="KOLKATA",Zee Bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
 
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA 
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Indian Bangla Channel",Sony Aath
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA HD
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="KOLKATA", ZEE BANGLA FHD
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="KOLKATA",Sony Aath
 #https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
 #http://watchindia.net:8880/live/65181/26572/2286.ts
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
-#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla Channel",Akash Aath
+#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="KOLKATA",Akash Aath
 #http://176.119.29.52/live.ts?channelId=79&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100643
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="KOLKATA",Jalsha Movies HD
 http://opplextv.cyou:8080/live/773199/626227/245900.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Indian Bangla Channel",Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="IKOLKATA",Colors Bangla Cinema
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
 
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014677-26292078.jpg?v=8.2.4"group-title="Indian Bangla Channel",Zee Bangla Cinema 
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014677-26292078.jpg?v=8.2.4"group-title="KOLKATA",Zee Bangla Cinema 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
+
 
 
 
