@@ -222,7 +222,7 @@ http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY WAH
 http://xtv.ooo:8080/live/naqeebkhan/naqeebkhan123/112979.ts
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685433-64049424.png?v=8.2.4"group-title="Indian Channel",Sony Max HD
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685433-64049424.png?v=8.2.4"group-title="HINDI MOVIES",Sony Max HD
 http://xtv.ooo:8080/live/414559860/69865599/66179.ts
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX 2
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&e=.m3u8
