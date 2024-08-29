@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", T SPORTS HD 1
-http://103.151.60.174/manikvai@hoichoi24.com-t-sports
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", T SPORTS HD 2
-https://humsab.xyz/GBanTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 1
+https://bdix.proximitybd.xyz/buka.php?id=live-01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="TOFFEE X BDIX IPTV HUB", T SPORTS LIVE 2
+https://bdix.proximitybd.xyz/buka.php?id=live-02
 
 
 
@@ -59,6 +59,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd.m3u
 http://humsab.xyz/IN_STGOLD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", STAR GOLD SELECT HD
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="TOFFEE X BDIX IPTV HUB", SONY MAX
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666685433-64049424.png?v=8.2.4"group-title="HINDI MOVIES",Sony Max HD
 http://xtv.ooo:8080/live/414559860/69865599/66179.ts
 
