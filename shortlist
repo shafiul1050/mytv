@@ -36,7 +36,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="Bangladeshi Channel", CHANNEL I HD
 https://utube.buddyxiptv.com/@channelinews.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="BD | CHANNEL", DESH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="Bangladeshi Channel", DESH TV
 https://utube.buddyxiptv.com/@livedeshtv.m3u8
 
 
@@ -103,24 +103,24 @@ https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 https://fmrx.short.gy/Pogo.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="INTERNATIONAL CHANNELS", AL JAZEERA
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary", DISCOVERY BANGLA
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title="DOCUMENTORY", NATIONAL GEOGRAPHIC BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title="Documentary", NATIONAL GEOGRAPHIC BANGLA
 http://xtv.ooo:8080/live/naqeebkhan/naqeebkhan123/245967.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="DOCUMENTORY",  ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="Documentary",  ANIMAL PLANET HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NAT GEO WILD
+#EXTINF:-1 tvg-logo="" group-title="Documentary", NAT GEO WILD
 http://opplextv.cyou:8080/live/4545/4545/206286.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title=" DOCUMENTARY", SONY BBC EARTH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title=" Documentary", SONY BBC EARTH
 http://opplextv.cyou:8080/live/773199/626227/206278.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="DOCUMENTORY", TRAVELXP HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="Documentary", TRAVELXP HD
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title=" DOCUMENTARY", WILD EARTH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title=" Documentary", WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
