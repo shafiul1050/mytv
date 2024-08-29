@@ -63,9 +63,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", STAR PLUS HD
+#EXTINF:-1 tvg-logo="" group-title="Hindi", STAR PLUS HD
 http://217.20.112.199/starplushd/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDzvrRX/20240803-110704.png" group-title="Hindi", ZEE TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYnZkKk/20240803-110602.png" group-title="Hindi", & TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE CINEMA HD
