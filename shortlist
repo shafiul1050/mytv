@@ -44,6 +44,15 @@ https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/c
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="KOLKATA",Jalsha Movies HD
 http://opplextv.cyou:8080/live/773199/626227/245900.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mCr1q1/20240803-102358.png" group-title="KOLKATA", ABP ANANDA 
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbRHng/20240803-164315.png" group-title="KOLKATA", ZEE 24 GHONTA 
+https://utube.buddyxiptv.com/@Zee24Ghanta.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Tsm5B4/20240803-102413.png" group-title="KOLKATA", TV9 BANGLA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", STAR PLUS HD
