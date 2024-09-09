@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="Sports", T SPORTS LIVE 1
-https://bdix.proximitybd.xyz/buka.php?id=live-01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="Sports", T SPORTS LIVE 2
-https://bdix.proximitybd.xyz/buka.php?id=live-02
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="RELIGIOUS", PEACE TV BANGLA-I
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
@@ -29,7 +23,7 @@ http://xtv.ooo:8080/live/414559860/69865599/245916.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="Bangladeshi Channel", EKATTOR TV 
 https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jtwns3g/20240802-202447.png"group-title="Bangladeshi Channel",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtGFZw3/20240802-200509.png"group-title="Bangladeshi Channel",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC19FZ0/20240802-202241.png"group-title="Bangladeshi Channel",Maasranga TV
