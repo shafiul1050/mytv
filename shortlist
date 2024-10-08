@@ -34,7 +34,10 @@ https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="Bangladeshi Channel", DESH TV
 https://utube.buddyxiptv.com/@livedeshtv.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG2PYT8xQBTG7qjHG2d9u6I-oRIqrqE5Ksrl817LlMzCreApR5ncM5WtK&s=10" group-title="Bangladeshi Channel",,ekushey-tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png"group-title="Bangladeshi Channel", Deepto TV HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
 
 
 
@@ -116,7 +119,9 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary", DISCOVERY BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary", DISCOVERY BANGLA-1
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary", DISCOVERY BANGLA-2
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title="Documentary", NATIONAL GEOGRAPHIC BANGLA
 http://xtv.ooo:8080/live/naqeebkhan/naqeebkhan123/245967.ts
