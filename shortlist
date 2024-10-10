@@ -30,7 +30,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" group-title="Bangladeshi Channel", NTV
 https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Rtv_bangladesh.svg" group-title="Bangladeshi Channel", RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangladeshi Channel", RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="Bangladeshi Channel", CHANNEL I HD
 https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
@@ -115,8 +115,9 @@ https://fmrx.short.gy/Pogo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/200px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="International News", BBC World
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="International News", BBC World
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
 
 
 
