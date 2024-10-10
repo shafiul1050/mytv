@@ -45,14 +45,19 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6rNftPN/20240813-112448.png"group-title="KOLKATA",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA 
-https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png"group-title="KOLKATA",Sony Aath
-#https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #http://watchindia.net:8880/live/65181/26572/2286.ts
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",SONY AATH
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",SONY AATH HD
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="KOLKATA",Jalsha Movies HD
-http://opplextv.cyou:8080/live/773199/626227/245900.ts
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mCr1q1/20240803-102358.png" group-title="KOLKATA", ABP ANANDA 
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPbRHng/20240803-164315.png" group-title="KOLKATA", ZEE 24 GHONTA 
