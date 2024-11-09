@@ -11,9 +11,9 @@ https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=pGANLVBfuktgUa
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bX4tt98/20240730-222351.png"group-title="Bangladeshi Channel",Somoy TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQTkSP7/20240730-234013.png"group-title="Bangladeshi Channel",Jamuna TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1332.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png"group-title="Bangladeshi Channel",Ekhon TV
 https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png"group-title="Bangladeshi Channel",DBC News
