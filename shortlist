@@ -40,6 +40,8 @@ https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 https://utube.buddyxiptv.com/@livedeshtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG2PYT8xQBTG7qjHG2d9u6I-oRIqrqE5Ksrl817LlMzCreApR5ncM5WtK&s=10" group-title="Bangladeshi Channel",ekushey-tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG2PYT8xQBTG7qjHG2d9u6I-oRIqrqE5Ksrl817LlMzCreApR5ncM5WtK&s=10" group-title="Bangladeshi Channel",ekushey-tv-2
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/EkushyTv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png"group-title="Bangladeshi Channel", Deepto TV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
 
@@ -99,6 +101,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English MOVIES", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English MOVIES", HBO
+http://tv.cloudcdn.me/live.ts?
+channelId=49858&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="English MOVIES", Movies now
+http://tv.cloudcdn.me/live.ts?
+channelId=162&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 
@@ -114,10 +122,14 @@ http://103.151.60.174:553/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png" group-title="KIDS CHANNEL", WOW KIDS 
 http://tv.cloudcdn.me/live.ts?channelId=91169&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS CHANNEL", MOTU PATLU
-https://fmrx.short.gy/bdixiptvhub/offline.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS CHANNEL", MOTU PATLU-24/7
+https://tiger-hub.vercel.app/Mehedi-hasan/24%C3%977_Motu-patlu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS CHANNEL", TOM & JERRY-24/7
+https://tiger-hub.vercel.app/Mehedi-hasan/24×7-Tom&jerry.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS CHANNEL", POGO
 https://fmrx.short.gy/Pogo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS CHANNEL", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News", AL JAZEERA
