@@ -15,7 +15,7 @@ http://ktv.im:8080/live/122334/122334/83781.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQTkSP7/20240730-234013.png"group-title="Bangladeshi Channel",Jamuna TV
 http://ktv.im:8080/live/122334/122334/83800.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png"group-title="Bangladeshi Channel",Ekhon TV
-https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+https://ytapi-1.piratestv.workers.dev/live/4etMOBpFCqM.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png"group-title="Bangladeshi Channel",DBC News
 http://ktv.im:8080/live/122334/122334/83803.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png"group-title="Bangladeshi Channel",Independent TV
