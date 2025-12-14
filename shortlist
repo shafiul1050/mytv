@@ -7,6 +7,14 @@ https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765718976&u=ef3dd85c-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL",DURONTO TV
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="KIDS CHANNEL",Cartoon Network HD+
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="24/7 Gopal Bhar" group-title="Bangladeshi üáßüá©",24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-name="4/7 Doraemon" group-title="Bangladeshi üáßüá©",4/7 Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-name="24/7 Motu Patlu" group-title="Bangladeshi üáßüá©",24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png"group-title="Bangla Channel",BTD
@@ -66,6 +74,8 @@ http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=b2e3e95d53574766012e9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="International News", BBC World
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/85.png" group-title="International News",DW news
+http://103.166.152.22:8080/roarzone/bk/85/index.m3u8?token=b7832ae3ff42e7542a58523f53c2e43d1d4503cc-dfc7dfa658782529df9d143bb3924549-1765722901-1765712101
 
 
 
@@ -74,8 +84,14 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 https://raw.githubusercontent.com/shafiul1050/mytv/refs/heads/main/shortlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bFwYNBW/20240803-110739.png" group-title="Documentary",ANIMAL PLANET HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="f79543b0-41ab-433f-8bfc-53d6bba16399" tvg-name="Nat Geo TV" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="Documentary",Nat Geo TV
+https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1765719045&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6c04bdcfb08d348ea2b789ed84c3f80c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="Documentary",TRAVELXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7a0871d0-1a45-430c-b513-3bba8a9cf820" tvg-name="4k Travel" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="Documentary",4k Travel
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="6587b33e-12f4-4f17-a37c-1a0955457ccb" tvg-name="Persiana Travel" tvg-logo="https://s3.aynaott.com/storage/be9b48d87dcd7711cac19c17d8e01b27" group-title="Documentary",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
 
 
 
