@@ -5,6 +5,9 @@
 https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765718976&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=9a30fc1b4ab060b0b136f3a50979e0f0
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL",DURONTO TV
+https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
+
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png"group-title="Bangla Channel",BTD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -47,17 +50,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/180px-STAR_Movies_logo.svg.png" group-title="English MOVIES", Star MoviesHD
-http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=33f3f0472e0d4702ec4d9f876c748da61505d0a5-2c3cca57c0e3133998dd455d2f30afb3-1765712912-1765702112
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English MOVIES", HBO
-https://tvsen5.aynascope.net/hbo/index.m3u8?e=1765710053&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f1c13e6b55111cf3cb068d7658cc9c3c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English MOVIES", HBO
-https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1765710054&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=3b374ba001831bfb30f9add4f99b47a0
+http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=3b50e030b22fcdbed5b1ef109134158300f98cff-9a436c28b12a209d24a9b37f69a870a6-1765722901-1765712101
+#EXTINF:-1 tvg-id="1124edfa-0c73-4389-8c8c-988b8ae65460" tvg-name="HBO" tvg-logo="https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04" group-title="English MOVIES",HBO
+https://tvsen5.aynascope.net/hbo/index.m3u8?e=1765719049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1c99e50e128a69c3725c1fbd5e32bbbf
+#EXTINF:-1 tvg-id="4804c4fb-4d32-4a91-88e2-fa6d0798f6a5" tvg-name="HBO 2" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" group-title="English MOVIES",HBO 2
+https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1765719049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=a8adb31d59c711547bc97e7f92e1fb0f
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="English MOVIES",sony pix
+http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=b2e3e95d53574766012e907d1672e2ab53af28eb-2617c3d21360e19f20d2fd0ac441785d-1765722901-1765712101
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL", DURONTO TV
-https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
 
 
 
