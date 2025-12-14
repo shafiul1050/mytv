@@ -9,11 +9,11 @@ https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765718976&u=ef3dd85c-
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="KIDS CHANNEL",Cartoon Network HD+
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="24/7 Gopal Bhar" group-title="Bangladeshi üáßüá©",24/7 Gopal Bhar
+#EXTINF:-1 tvg-name="24/7 Gopal Bhar" group-title="25/7",24/7 Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-name="4/7 Doraemon" group-title="Bangladeshi üáßüá©",4/7 Doraemon
+#EXTINF:-1 tvg-name="4/7 Doraemon" group-title="24/7",4/7 Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-name="24/7 Motu Patlu" group-title="Bangladeshi üáßüá©",24/7 Motu Patlu
+#EXTINF:-1 tvg-name="24/7 Motu Patlu" group-title="24/7",24/7 Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 
@@ -21,15 +21,15 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bX4tt98/20240730-222351.png"group-title="Bangla Channel",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQTkSP7/20240730-234013.png"group-title="Bangla Channel",Jamuna TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangla Channel",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png"group-title="Bangla Channel",Ekhon TV
 https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1765718968&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=737e03cd6fbfdaa4d896368ecfe2a5a5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png"group-title="Bangla Channel",DBC News
 http://103.166.152.22:8080/roarzone/bk/7/index.m3u8?token=304fb78ca4db4d9cf0de1602ff0ea7654582f532-7991afc91d83e2343dabc7d37f0982a4-1765722901-176571210
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png"group-title="Bangla Channel",Independent TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png"group-title="Bangla Channel",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="Bangla Channel",EKATTOR TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="Bangla Channel",EKATTOR TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangla Channel",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -37,15 +37,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Bangla Channel",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BC19FZ0/20240802-202241.png"group-title="Bangla Channel",Maasranga TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png"group-title="Bangla Channel",Maasranga TV
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" group-title="Bangla Channel",NTV
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla Channel",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla Channel",RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1765718965&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e33fb98fbc881401e1d69296159307ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="Bangla Channel",CHANNEL I HD
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangla Channel",CHANNEL I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="Bangla Channel",DESH TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Bangla Channel",DESH TV
 https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1765718977&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0b15e134d394e28794b417c41bf664cf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG2PYT8xQBTG7qjHG2d9u6I-oRIqrqE5Ksrl817LlMzCreApR5ncM5WtK&s=10" group-title="Bangla Channel",Ekushey tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -72,7 +72,7 @@ http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=b2e3e95d53574766012e9
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News",AL JAZEERA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="International News", BBC World
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="International News",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/85.png" group-title="International News",DW news
 http://103.166.152.22:8080/roarzone/bk/85/index.m3u8?token=b7832ae3ff42e7542a58523f53c2e43d1d4503cc-dfc7dfa658782529df9d143bb3924549-1765722901-1765712101
