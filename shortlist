@@ -6,7 +6,7 @@ https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765718976&u=ef3dd85c-
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title="KIDS CHANNEL",DURONTO TV
-https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
+https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="KIDS CHANNEL",Cartoon Network HD+
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="24/7 Gopal Bhar" group-title="24/7",24/7 Gopal Bhar
@@ -90,6 +90,8 @@ https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1765719045&u=ef3dd85c-c300-4e09
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="7a0871d0-1a45-430c-b513-3bba8a9cf820" tvg-name="4k Travel" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="Documentary",4k Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Drone tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 #EXTINF:-1 tvg-id="6587b33e-12f4-4f17-a37c-1a0955457ccb" tvg-name="Persiana Travel" tvg-logo="https://s3.aynaott.com/storage/be9b48d87dcd7711cac19c17d8e01b27" group-title="Documentary",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
 
