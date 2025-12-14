@@ -55,14 +55,14 @@ http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=3b50e030b22fc
 https://tvsen5.aynascope.net/hbo/index.m3u8?e=1765719049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1c99e50e128a69c3725c1fbd5e32bbbf
 #EXTINF:-1 tvg-id="4804c4fb-4d32-4a91-88e2-fa6d0798f6a5" tvg-name="HBO 2" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" group-title="English MOVIES",HBO 2
 https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1765719049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=a8adb31d59c711547bc97e7f92e1fb0f
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="English MOVIES",sony pix
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="English MOVIES",Sony pix
 http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=b2e3e95d53574766012e907d1672e2ab53af28eb-2617c3d21360e19f20d2fd0ac441785d-1765722901-1765712101
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News", AL JAZEERA
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News",AL JAZEERA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="International News", BBC World
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
@@ -70,8 +70,8 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary",DISCOVERY
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary",DISCOVERY HD
+https://raw.githubusercontent.com/shafiul1050/mytv/refs/heads/main/shortlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bFwYNBW/20240803-110739.png" group-title="Documentary",ANIMAL PLANET HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="Documentary",TRAVELXP HD
