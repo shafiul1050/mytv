@@ -5,7 +5,7 @@
 https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765718976&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=9a30fc1b4ab060b0b136f3a50979e0f0
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL",DURONTO TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title="KIDS CHANNEL",DURONTO TV
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="KIDS CHANNEL",Cartoon Network HD+
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
@@ -80,8 +80,8 @@ http://103.166.152.22:8080/roarzone/bk/85/index.m3u8?token=b7832ae3ff42e7542a585
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary",DISCOVERY HD
-https://raw.githubusercontent.com/shafiul1050/mytv/refs/heads/main/shortlist
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/99526d9269f86250d6bb6cb625cd8275" group-title="Documentary",DISCOVERY HD
+https://tvsen6.aynascope.net/discovery_hd/index.m3u8?e=1765720149&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4cfe46082f1157693d11c01c3074a425
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bFwYNBW/20240803-110739.png" group-title="Documentary",ANIMAL PLANET HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="f79543b0-41ab-433f-8bfc-53d6bba16399" tvg-name="Nat Geo TV" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="Documentary",Nat Geo TV
