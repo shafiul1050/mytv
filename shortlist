@@ -9,9 +9,9 @@ https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765718976&u=ef3dd85c-
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="KIDS CHANNEL",Cartoon Network HD+
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="24/7 Gopal Bhar" group-title="25/7",24/7 Gopal Bhar
+#EXTINF:-1 tvg-name="24/7 Gopal Bhar" group-title="24/7",24/7 Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-name="4/7 Doraemon" group-title="24/7",4/7 Doraemon
+#EXTINF:-1 tvg-name="4/7 Doraemon" group-title="24/7",24/7 Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-name="24/7 Motu Patlu" group-title="24/7",24/7 Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
