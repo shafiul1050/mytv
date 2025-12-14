@@ -1,12 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="RELIGIOUS", PEACE TV BANGLA-I
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="RELIGIOUS",PEACE TV BANGLA-I
 https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1765709982&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=745d41ce24e00ea9418b15ac5cebe95e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="RELIGIOUS", ISLAM BANGLA 
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="RELIGIOUS", AL QURAN
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png"group-title="Bangla Channel",BTD
@@ -21,29 +18,29 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png"group-title="Bangla Channel",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="Bangla Channel", EKATTOR TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="Bangla Channel",EKATTOR TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangla Channel", Channel 24 HD
+#EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangla Channel",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtGFZw3/20240802-200509.png"group-title="Bangla Channel",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Bangla Channel", ATN News
+#EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Bangla Channel",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC19FZ0/20240802-202241.png"group-title="Bangla Channel",Maasranga TV
-http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" group-title="Bangla Channel", NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla Channel", RTV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="Bangla Channel", CHANNEL I HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" group-title="Bangla Channel",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla Channel",RTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="Bangla Channel",CHANNEL I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="Bangla Channel", DESH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="Bangla Channel",DESH TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG2PYT8xQBTG7qjHG2d9u6I-oRIqrqE5Ksrl817LlMzCreApR5ncM5WtK&s=10" group-title="Bangla Channel",Ekushey tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="141" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla Channel",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png"group-title="Bangla Channel", Deepto TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png"group-title="Bangla Channel",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
@@ -61,20 +58,7 @@ https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1765710054&u=ef3dd85c-c300-4e09-b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL", DURONTO TV
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765709981&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea345a79aae28c859c0c67fa0b40d9d6
-#EXTINF:-tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="KIDS CHANNEL", Discovery Kids
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s544wN3/20240812-184634.png" group-title="KIDS CHANNEL", KIDS CARTOON
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS CHANNEL", NICK BANGLA
-http://14.102.123.50:5001/live/1341.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="KIDS CHANNEL",Sony Yay
-http://103.151.60.174:553/
-#EXTINF:-1 tvg-id="" tvg-name="TOON GOOGLE" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="KIDS CHANNEL", TOON GOOGLE
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png" group-title="KIDS CHANNEL", WOW KIDS 
-http://tv.cloudcdn.me/live.ts?channelId=91169&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS CHANNEL", MOTU PATLU-24/7
-https://tiger-hub.vercel.app/Mehedi-hasan/24%C3%977_Motu-patlu.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.jpg" group-title="KIDS CHANNEL", TOM & JERRY-24/7
 https://tiger-hub.vercel.app/Mehedi-hasan/24×7-Tom&jerry.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.jpg" group-title="KIDS CHANNEL", TOM & JERRY
@@ -88,30 +72,21 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="International News", AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="International News", BBC World
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://tvsen6.aynascope.net/bbcnews/index.m3u8?e=1765710094&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=66233a7a63e0426593f9605de48fa599
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary", DISCOVERY BANGLA-1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary",DISCOVERY BANGLA-
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Documentary", DISCOVERY BANGLA-2
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title="Documentary", NATIONAL GEOGRAPHIC BANGLA
-http://xtv.ooo:8080/live/naqeebkhan/naqeebkhan123/245967.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bFwYNBW/20240803-110739.png" group-title="Documentary",  ANIMAL PLANET HD
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Documentary", NAT GEO WILD
-http://opplextv.cyou:8080/live/4545/4545/206286.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title=" Documentary", SONY BBC EARTH
-http://opplextv.cyou:8080/live/773199/626227/206278.ts
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="Documentary", TRAVELXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title=" Documentary", WILD EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 
 
 
