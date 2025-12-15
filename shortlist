@@ -57,14 +57,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/180px-STAR_Movies_logo.svg.png" group-title="English MOVIES", Star MoviesHD
-http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=3b50e030b22fcdbed5b1ef109134158300f98cff-9a436c28b12a209d24a9b37f69a870a6-1765722901-1765712101
-#EXTINF:-1 tvg-id="1124edfa-0c73-4389-8c8c-988b8ae65460" tvg-name="HBO" tvg-logo="https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04" group-title="English MOVIES",HBO
-https://tvsen5.aynascope.net/hbo/index.m3u8?e=1765719049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1c99e50e128a69c3725c1fbd5e32bbbf
-#EXTINF:-1 tvg-id="4804c4fb-4d32-4a91-88e2-fa6d0798f6a5" tvg-name="HBO 2" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" group-title="English MOVIES",HBO 2
-https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1765719049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=a8adb31d59c711547bc97e7f92e1fb0f
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="English MOVIES",Sony pix
-http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=b2e3e95d53574766012e907d1672e2ab53af28eb-2617c3d21360e19f20d2fd0ac441785d-1765722901-1765712101
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/starmovies.png" group-title="english", Star movies
+http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=4048eb3255c92c4152ca6c3f744f486b72b1a604-49fd590f84a3f8d65c1fad4dc0b5613d-1765809134-1765798334
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/69.png" group-title="english", Zee cafe hd
+http://103.166.152.22:8080/roarzone/toffee/zee_cafe_hd/index.m3u8?token=add9480117aa65294ca9d417d84aff5ab660ff5b-fa8c735074204f6ed2a4ba8274a87987-1765809135-1765798335
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/41.png" group-title="english", Sony pix
+http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=aa15946c9b60ee5ce727a00d7bc5ffd1b0db3ead-559cb5eb779bf6e407ecde54dbe9403d-1765809136-1765798336
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/85.png" group-title="english", Dw news
+http://103.166.152.22:8080/roarzone/bk/85/index.m3u8?token=9128aae009db570fb231bdbaf596beea45c2819e-32ad30d4d6406453cb80538d8462fa2d-1765809136-1765798336
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/89.png" group-title="english", Al jazeera
+http://103.166.152.22:8080/roarzone/bk/89/index.m3u8?token=cab2bcc2783e091a616308cbaad29cba467bfd09-6f04638d208aeddb193ac799b965c1d0-1765809137-1765798337
 
 
 
