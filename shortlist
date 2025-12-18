@@ -7,6 +7,7 @@
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e33b23f7dc3d39008d672952c33069d4" group-title="Islamic",Peace TV Bangla HD
+https://tvsen5.aynaott.com/peacetv/index.m3u8
 https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1766050895&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=047733f7460584606622e98ea36ee33e
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla HD
