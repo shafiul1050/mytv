@@ -155,9 +155,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV HD
 
-#EXTINF:-1 tvg-logo=”https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d”group-title="BANGLA",Green tv
-https://tvsen6.aynascope.net/GreenTvHD/index.m3u8?e=1766233087&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8f2c62b909810db3c929bf77e6b38727
-https://tvsen6.aynascope.net/GreenTvHD/index.m3u8?e=1766232988&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ddfdf2221bc7222ad767d99987d8e22d
+#EXTINF:-1 tvg-logo=”https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png”group-title="BANGLA",Green tv
+#https://tvsen6.aynascope.net/GreenTvHD/index.m3u8?e=1766233087&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8f2c62b909810db3c929bf77e6b38727
+#https://tvsen6.aynascope.net/GreenTvHD/index.m3u8?e=1766232988&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ddfdf2221bc7222ad767d99987d8e22d
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 
 
 #EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="BANGLA",Asian TV
