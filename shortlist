@@ -71,6 +71,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1766411623&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e971bc42e811d9ff8b0211403bd1a1f7
 https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1766412122&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=76059cb7c9e1ecf2814da2b34854c787
 
+#EXTINF:-1 tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BANGLA",Ekhon TV
+https://ayna-ott.sm-monirulislam-exp.workers.dev/ekhontv/index.m3u8
+
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -165,10 +168,11 @@ https://ayna-ott.sm-monirulislam-exp.workers.dev/nexustv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440981
 
-#EXTINF:-1 tvg-logo=”https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png”group-title="BANGLA",Green tv
+#EXTINF:-1 tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="Green TV HD" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="BANGLA",Green TV HD
 #https://tvsen6.aynascope.net/GreenTvHD/index.m3u8?e=1766233087&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8f2c62b909810db3c929bf77e6b38727
 #https://tvsen6.aynascope.net/GreenTvHD/index.m3u8?e=1766232988&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ddfdf2221bc7222ad767d99987d8e22d
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+#https://ayna-ott.sm-monirulislam-exp.workers.dev/GreenTvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-name="Drama 24" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="BANGLA",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
