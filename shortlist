@@ -28,7 +28,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg" group-title="SPORTS",T Sports
-http://dvltv.cc:80/play/aFTJ_G2urcXpHTp_dTpWG480Fs9ETcSYL10ZNTiPq7j-AD7XS05pLPipekw26vcs/ts
+https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=30d7e7f8f8e91d215b04f80873c396fe720309e3-cf3d7fe7741c04be1ddc1ba2db403260-1770316503-1770305703
 
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
